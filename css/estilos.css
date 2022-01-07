@@ -37,7 +37,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 3px solid rgb(255, 255, 255);
     margin: 0 auto;
 }
 
@@ -47,6 +47,14 @@ body
 }
 #post
 {
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 1em;
+}
+
+#footer 
+{
+    background: rgb(138, 138, 138);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0.5em;
 }
